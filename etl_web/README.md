@@ -11,3 +11,5 @@
 ## &#127919; **_Objective_**
 &emsp; The data engineering dept's objective is to gather adequate contact information for the Greek companies involved to the defence industry.
 <br><br>
+
+Thank you for visiting this project! :)
